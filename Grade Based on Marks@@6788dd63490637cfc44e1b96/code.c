@@ -9,10 +9,10 @@ int main(){
     printf("B");
     }
     else if(x>=70 && x<80){
-    printf("c");
+    printf("C");
     }
     else if(x>=60 && x<70){
-    printf("d");
+    printf("D");
     }  
     else{
         printf("F");
