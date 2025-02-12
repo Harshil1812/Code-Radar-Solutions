@@ -2,10 +2,10 @@
 int main(){
     char x;
     scanf("%s",x);
-    if(x>='A' && x>='Z'){
+    if(x>='A' && x<='Z'){
         printf("Uppercase");
     }
-    else(x<='A' && x<='Z'){
+    else(x>='a' && x<='z'){
         printf("Lowercase");
     }
     return 0;
