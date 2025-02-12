@@ -12,7 +12,7 @@ int main() {
         printf("Divisible by Both");
     }
     else{
-        printf("Divisible by Neither")
+        printf("Divisible by Neither");
     }
     return 0;
 }
