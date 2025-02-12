@@ -6,9 +6,9 @@ int main() {
         printf("%d",x);
     }
     else if(y >= x && y >= z){
-        printf("%d",y)
+        printf("%d",y);
     }
     else{
-        printf("%d",z)
+        printf("%d",z);
     }
 }
