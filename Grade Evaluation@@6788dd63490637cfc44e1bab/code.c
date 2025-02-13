@@ -10,9 +10,11 @@ inr main(){
     }
     else if( x == 'C'){
         printf("Average")
-    }lse if( x == 'D'){
+    }
+    else if( x == 'D'){
         printf("Below Average")
-    }else if( x == 'F'){
+    }
+    else if( x == 'F'){
         printf("Fail")
     }
     return 0;
