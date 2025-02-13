@@ -1,5 +1,5 @@
 #include <stdio.h>
-inr main(){
+int main(){
     int x;
     scanf("%d",&x);
     if(x == 'A'){
