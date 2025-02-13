@@ -3,19 +3,19 @@ inr main(){
     int x;
     scanf("%d",&x);
     if(x == 'A'){
-        printf("Excellemt")
+        printf("Excellemt");
     }
     else if( x == 'B'){
-        printf("Good")
+        printf("Good");
     }
     else if( x == 'C'){
-        printf("Average")
+        printf("Average");
     }
     else if( x == 'D'){
-        printf("Below Average")
+        printf("Below Average");
     }
     else if( x == 'F'){
-        printf("Fail")
+        printf("Fail");
     }
     return 0;
 }
