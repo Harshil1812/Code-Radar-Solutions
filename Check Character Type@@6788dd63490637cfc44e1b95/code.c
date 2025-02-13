@@ -11,7 +11,7 @@ int main() {
         printf("Consatnt");
     }
     else if(isdigit(x)){
-    printf("Digit");
+        printf("Digit");
     }
     else{
         printf("Special Character");
