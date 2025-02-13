@@ -22,10 +22,10 @@ int main(){
         printf("%d", x , y ,result);
         break;
         else {
-            printf("error")
+            printf("error");
         }
 
     }
-        return 0;
+    return 0;
 
 }
