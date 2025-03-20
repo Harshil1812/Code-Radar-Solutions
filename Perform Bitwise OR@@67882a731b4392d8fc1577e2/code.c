@@ -2,6 +2,8 @@
 
 int main() {
     int a, b, result;
+
+    scanf("%d %d", &a, &b);
     
     // Performing bitwise OR operation
     result = a | b;
