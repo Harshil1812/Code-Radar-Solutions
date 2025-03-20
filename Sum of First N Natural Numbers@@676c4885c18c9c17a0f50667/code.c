@@ -4,9 +4,8 @@ int main(){
     scanf("%d",&n);
     
     for(int i = 1;i <= n;i++)(
-        sum = 0;
+        sum == 0;
         sum += n;
-
     )
     return 0;
 }
