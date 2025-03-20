@@ -11,16 +11,15 @@ int main() {
     int num, n;
     
     // Input the number and the bit position
-    printf("Enter a number: ");
+
     scanf("%d", &num);
-    printf("Enter the bit position (0-based index): ");
     scanf("%d", &n);
     
     // Get the nth bit
     int bitValue = getNthBit(num, n);
     
     // Print the result
-    printf("The %dth bit of %d is: %d\n", n, num, bitValue);
+    printf("%d", n, num, bitValue);
     
     return 0;
 }
