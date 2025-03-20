@@ -13,13 +13,14 @@ int main() {
     // Input the number and the bit position
 
     scanf("%d", &num);
+
     scanf("%d", &n);
     
     // Get the nth bit
     int bitValue = getNthBit(num, n);
     
     // Print the result
-    printf("%d", n, num, bitValue);
+    printf("The %dth bit of %d is: %d\n", n, num, bitValue);
     
     return 0;
 }
