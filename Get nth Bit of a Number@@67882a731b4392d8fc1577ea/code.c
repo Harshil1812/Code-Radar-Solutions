@@ -20,7 +20,7 @@ int main() {
     int bitValue = getNthBit(num, n);
     
     // Print the result
-    printf("The %dth bit of %d is: %d\n", n, num, bitValue);
+    printf("%d",bitValue);
     
     return 0;
 }
